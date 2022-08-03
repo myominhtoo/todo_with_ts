@@ -1,9 +1,22 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "todos": [
+    {
+      "todo": "learn c & go",
+      "category": "Important",
+      "status": false,
+      "id": 1
+    },
+    {
+      "todo": "tester",
+      "category": "Education",
+      "status": true,
+      "id": 2
+    },
+    {
+      "todo": "learn spring security",
+      "category": "Important",
+      "status": false,
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.txt-sm{
+    font-size: 15px !important;
+}
